@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 02 14:20:51 GMT 2022","Thu Jun 02 14:20:55 GMT 2022","4012","","AllureTest","","AllureTest","testnavigation","testnavigation()","Navigation to the landing page"
