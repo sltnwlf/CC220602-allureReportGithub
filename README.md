@@ -1,0 +1,1 @@
+# CC220602-allureReportGithub
